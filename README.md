@@ -8,7 +8,5 @@ https://user-images.githubusercontent.com/51814996/134917669-3d2d4a74-30ce-4202-
 
 ## Technologies used 
 
-
-
-## ![image](https://user-images.githubusercontent.com/51814996/134917855-59f104cc-14be-41d7-bacd-4a1a509262d3.png)
-### ![image](https://user-images.githubusercontent.com/51814996/134918016-b67837cc-ba2b-4e77-8dfc-be804edf550b.png)
+![image](https://user-images.githubusercontent.com/51814996/134918327-0f1021ee-0c88-4261-a28c-a65366020d8d.png)
+![image](https://user-images.githubusercontent.com/51814996/134918213-22dfa438-f68b-446e-b94a-ed2d07ad53b2.png)
